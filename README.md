@@ -1,2 +1,3 @@
-# dio_desafio1
-desafio de projeto github
+# repositório desafio git :heart:
+- desafio de projeto github <br>
+- [comandos markdown](https://www.markdownguide.org/basic-syntax/)
