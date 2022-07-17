@@ -1,2 +1,2 @@
 teste de submmit de repositorio local e servidor.
-teste ssh
+teste config ok
