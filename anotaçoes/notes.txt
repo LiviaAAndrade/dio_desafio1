@@ -1,2 +1,1 @@
-teste de submmit de repositorio local e servidor.
-teste config ok
+upado com sucesso 3
